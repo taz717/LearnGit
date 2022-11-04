@@ -81,6 +81,34 @@ git clone https://github.com/taz717/LearnGit.git
     git checkout .
     git reset
 
+## vsCode & github desktop app
+
+## Step one
+
+click on source control on left of vsCode
+
+or 
+
+clone on the top left of the app
+
+## Step two
+
+click clone
+
+## Step three
+
+follow the forms given
+
+It is simple as that, you just need to practice but every command
+just has a button to click
+
+
+# Now this this is out the way
+
+pls go clone, make a branch, add your name to the list in helloWord.py
+and make a pr.
+
+
 
 
 

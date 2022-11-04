@@ -1,0 +1,86 @@
+# THIS IS A README GUIDE
+In this guide we are going to cover how to use git in a terminal, in vsCode and in the github desktop app!!!
+
+## Before starting!!!
+
+make sure you have git installed 
+
+ref: https://git-scm.com/
+
+## TERMINAL
+
+This has to be the worst way to deal with git but I am legally obligated to
+talk about it...
+
+### Step one
+pick your terminal of choice
+
+for the online guide, I am going to be using powershell but really anything works.
+
+### Step two
+configure your username and email
+
+    #### Set up username ####
+
+    ``` git config --global user.name "your_username" ```
+
+    #### Set up email ####
+
+    ``` git config --global user.email "your_email_address@example.com" ```
+
+    #### check that everything works ####
+
+    ``` git config --global --list ```
+
+### Step three
+
+Grab the HTTPS link for Github
+
+then run (That's the link under)
+
+git clone https://github.com/taz717/LearnGit.git
+
+### Step four
+
+#### useful commands:
+
+>    Grab changes from branch (REMOTE IS origin)
+
+    git pull <REMOTE> <name-of-branch>
+
+>    Create new branch
+
+    git checkout -b <name-of-branch>
+
+>   swap to an existing branch
+
+    git checkout <name-of-branch>
+
+>   get difference between your commit and the next
+
+    git diff
+
+>   get status of branch (what is staged, what isn't)
+
+    git status
+
+>   stage a file
+
+    git add <file-name OR folder-name>
+
+>   commit a file
+
+    git commit -m "COMMENT TO DESCRIBE THE INTENTION OF THE COMMIT"
+
+> push to (probably) github... once again remote is origin
+
+    git push <remote> <name-of-branch>
+
+>   how to clear a branch
+
+    git checkout .
+    git reset
+
+
+
+

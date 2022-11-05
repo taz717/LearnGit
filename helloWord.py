@@ -3,6 +3,7 @@
 
 students = [
     "Taz",
+    "Lima",
 ]
 
 

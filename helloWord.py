@@ -3,8 +3,7 @@
 
 students = [
     "Taz",
-    "Lima",
-    "Troglodite",
+    "Lima Bean",
 ]
 
 

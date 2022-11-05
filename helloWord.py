@@ -5,6 +5,7 @@ students = [
     "Taz",
     "John",
     "Fahad",
+    "Brant",
 ]
 
 

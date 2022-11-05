@@ -2,7 +2,8 @@
 # Git Help using python file as test file
 
 students = [
-    "Taz", "McKenzy"
+    "Taz", 
+    "McKenzy",
 ]
 
 

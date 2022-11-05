@@ -6,7 +6,8 @@ students = [
     "Lima Bean",
     "Taz2",
     "McKenzy",
-    "Fahad"
+    "Fahad",
+    "Brant"
 ]
 
 

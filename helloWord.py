@@ -11,7 +11,8 @@ students = [
     "Taz2",
     "McKenzy",
     "Fahad",
-    "Brant"
+    "Brant",
+    "Jordan"
 ]
 
 
